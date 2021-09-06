@@ -72,16 +72,16 @@ button:hover{
 }
 
 #new_offer .one:hover .details{
-    background-color: #b9ab24db;
+    background-color: #00ff1585;
     cursor: pointer;
 }
 #new_offer .one button{
     display: inline-block;
     font-size: 16px;
     font-weight: 700;
-    color: #000;
+    color: rgb(255, 255, 255);
     padding: 2.5px;
-    background:none;
+    background-color: rgba(0, 0, 0, 0.144);
     border-bottom: 1px solid;
     text-transform: uppercase;
     transform: translateY(70px);
@@ -92,6 +92,7 @@ button:hover{
 #new_offer .one:hover button{
     color: rgb(255, 255, 255);
     border-bottom: 1px solid #fff;
+    background: none;
     
 }
 
