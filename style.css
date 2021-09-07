@@ -179,3 +179,8 @@ hr{
     background-color:coral;
     color: rgb(243, 249, 253);
 }
+
+ #fotter_logo{
+     width: 70px;
+     height: 70px;
+ }
